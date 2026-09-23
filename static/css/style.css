@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 420px;
+  border: 0;
+  border-radius: 16px;
+}
